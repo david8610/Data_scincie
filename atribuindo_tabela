@@ -1,6 +1,3 @@
-# Data_scincie
- Criando banco Sucos_Vendas
-
 CREATE SCHEMA IF NOT EXISTS `venda_sucos` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci ;
 USE `venda_sucos` ;
 
